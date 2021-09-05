@@ -7,7 +7,7 @@
     - 🔗 [LinkedIn](https://www.linkedin.com/in/lhkhiem28/)
     - 🔗 [Google Scholar](https://scholar.google.com/citations?user=T8I-cLIAAAAJ&hl=vi)
 
-### 📰 Check out my paper reproductions
+### 📰 Check out my latest paper replications
 [<img width="600" src="paper-cards/COVID-19 Named Entity Recognition for Vietnamese.png">](https://github.com/lhkhiem28/COVID-19-Named-Entity-Recognition-for-Vietnamese)
 
 ### 📦 Packages I joined to create
