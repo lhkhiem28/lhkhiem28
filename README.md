@@ -8,7 +8,6 @@
     - 🔗 [Google Scholar](https://scholar.google.com/citations?user=T8I-cLIAAAAJ&hl=vi) for my research publications
 
 ### 📰 Check out my latest paper replications
-[<img width="600" src="paper-cards/Intent Detection and Slot Filling for Vietnamese.png">](https://github.com/lhkhiem28/Intent-Detection-and-Slot-Filling-for-Vietnamese)
 [<img width="600" src="paper-cards/COVID-19 Named Entity Recognition for Vietnamese.png">](https://github.com/lhkhiem28/COVID-19-Named-Entity-Recognition-for-Vietnamese)
 
 ### 📦 Packages I joined to create
