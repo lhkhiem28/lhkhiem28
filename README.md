@@ -6,7 +6,7 @@
 - 🌱 I’m happy to read and grow every day
 - Learn more about me on:
     - 🔗 [LinkedIn](https://www.linkedin.com/in/lhkhiem28/) for my working experiences
-    - 🔗 [Google Scholar](https://scholar.google.com/citations?user=T8I-cLIAAAAJ&hl=vi) for my research publications
+    - 🔗 [Google Scholar]([https://scholar.google.com/citations?user=T8I-cLIAAAAJ&hl=vi](https://scholar.google.com/citations?hl=vi&user=T8I-cLIAAAAJ&view_op=list_works&sortby=pubdate)) for my research publications
 
 [![Khiem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lhkhiem28&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
