@@ -8,7 +8,7 @@
     - 🔗 [LinkedIn](https://www.linkedin.com/in/lhkhiem28/) for my working experiences
     - 🔗 [Google Scholar](https://scholar.google.com/citations?hl=vi&user=T8I-cLIAAAAJ&view_op=list_works&sortby=pubdate) for my research publications
 
-[![Khiem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lhkhiem28&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Khiem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lhkhiem28&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📰 Check out my latest paper replications
 [<img width="600" src="paper-cards/COVID-19 Named Entity Recognition for Vietnamese.png">](https://github.com/lhkhiem28/COVID-19-Named-Entity-Recognition-for-Vietnamese)
