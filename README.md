@@ -10,7 +10,7 @@
 
 [![Khiem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lhkhiem28&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📰 Check out my latest paper replications
+### 📰 Check out my latest AI research paper replications
 [<img width="600" src="paper-cards/COVID-19 Named Entity Recognition for Vietnamese.png">](https://github.com/lhkhiem28/COVID-19-Named-Entity-Recognition-for-Vietnamese)
 
 ### 📦 Packages I joined to create
