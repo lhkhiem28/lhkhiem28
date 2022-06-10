@@ -3,7 +3,7 @@
 
 - ⚡ I’m currently working on AI and Machine Learning
 - ⚡ I’m experienced in Computer Vision, Natural Language Processing
-- 🌱 I’m happy to read and grow every day
+- 🌱 I’m happy to connect and grow every day
 - Learn more about me on:
     - 🔗 [LinkedIn](https://www.linkedin.com/in/lhkhiem28/) for my working experiences
     - 🔗 [Google Scholar](https://scholar.google.com/citations?hl=vi&user=T8I-cLIAAAAJ&view_op=list_works&sortby=pubdate) for my research publications
