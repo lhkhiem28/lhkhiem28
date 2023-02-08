@@ -1,10 +1,9 @@
 ### 👋 Hi there. I’m Khiem
 
-🌱 I’m an Artificial Intelligence enthusiast and I'm happy to connect and grow every day.
-
+🌱 I’m an Artificial Intelligence enthusiast and I'm happy to connect and grow every day. <br />
 Learn more about me on: 
-    - 🔗 [LinkedIn](https://www.linkedin.com/in/lhkhiem28/) for my industry experience
-    - 🔗 [Google Scholar](https://scholar.google.com/citations?hl=vi&user=T8I-cLIAAAAJ&view_op=list_works&sortby=pubdate) for my research publications
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lhkhiem28/) for my industry experience
+- 🔗 [Google Scholar](https://scholar.google.com/citations?hl=vi&user=T8I-cLIAAAAJ&view_op=list_works&sortby=pubdate) for my research publications
 
 [![Khiem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lhkhiem28&count_private=false&show_icons=true&theme=merko&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
