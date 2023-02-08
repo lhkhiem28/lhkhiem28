@@ -1,4 +1,4 @@
-### 👋 Hi there. I’m Khiem
+### Hi there. I’m Khiem
 
 🌱 I’m an Artificial Intelligence enthusiast and I'm happy to connect and grow every day. Learn more about me on: 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lhkhiem28/) for my industry experience
