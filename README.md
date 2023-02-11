@@ -1,6 +1,6 @@
-### Hi there. I’m Khiem
+### Hello! I’m Khiem
 
-🌱 I’m an Artificial Intelligence enthusiast and I'm happy to connect and grow every day. Learn more about me on: 
+🌱 I’m an Artificial Intelligence enthusiast. I'm happy to connect and grow every day. Learn more about me on: 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lhkhiem28/) for my industry experience
 - 🔗 [Google Scholar](https://scholar.google.com/citations?hl=vi&user=T8I-cLIAAAAJ&view_op=list_works&sortby=pubdate) for my research publications
 
